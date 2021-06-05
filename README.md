@@ -1,6 +1,8 @@
 # bmi_calculator
 
 A new Flutter project.
+BMI Calculator inspired by the beautiful designs from dribbble. 
+It is a multi screen app with simple functionality but full-on custom styling.
 
 ## Getting Started
 
